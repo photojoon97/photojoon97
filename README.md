@@ -1,5 +1,5 @@
 <div align= "left"> 
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:007396&height=220&text=Welcome%20to%20Ahn%20Joon's%20GitHub!&fontAlign=50&fontAlignY=40&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:007396&height=220&text=Welcome%20to%20Joon's%20GitHub!&fontAlign=50&fontAlignY=40&fontSize=35&fontColor=ffffff&animation=fadeIn" />
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 자기소개 제목(수정 예정) </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 자기소개(수정 예정) </div> 
     </div>
