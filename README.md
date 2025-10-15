@@ -1,7 +1,8 @@
 <div align= "left"> 
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:007396&height=220&text=Welcome%20to%20Joon's%20GitHub!&fontAlign=50&fontAlignY=40&fontSize=35&fontColor=ffffff&animation=fadeIn" />
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 자기소개 제목(수정 예정) </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 자기소개(수정 예정) </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 자기소개 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 끊임없이 새로운 것을 배우고, 도전하며 성장하고 싶어하는 안준입니다. <br>
+단순히 동작하는 코드를 넘어서, 더 나은 방식과 구조를 고민하는 걸 좋아합니다. </div> 
     </div>
     <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
